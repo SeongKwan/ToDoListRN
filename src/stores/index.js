@@ -1,7 +1,6 @@
-import ApiKeysStore from './ApiKeysStore';
-
+import ListStore from './ListStore';
 
 
 export default {
-    apiKeysStore: ApiKeysStore,
+    listStore: ListStore
 };
